@@ -50,7 +50,7 @@
 
 ---
 
-## Seeing Causes Intentions
+## Seeing Causes and Intentions
 
 
 ---
