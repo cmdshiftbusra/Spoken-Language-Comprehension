@@ -1,9 +1,20 @@
-# Spoken Language Comprehension Improves the Efficiency of Visual Search
+## Spoken Language Comprehension Improves the Efficiency of Visual Search
 ---
 
-Insert Images
-image 1 link: https://i.imgur.com/l4HYW4g.png
-image 2 link: https://i.imgur.com/yrQjfWk.png
+## Instructions
+
+---
+
+![Logo](https://i.imgur.com/l4HYW4g.png)
+
+---
+
+## Next Challenge
+
+---
+
+![Logo](https://i.imgur.com/yrQjfWk.png)
+
 ---
 
 ## Parallel vs. Serial Processing
