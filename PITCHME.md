@@ -2,7 +2,8 @@
 ---
 
 Insert Images
-
+image 1 link: https://i.imgur.com/l4HYW4g.png
+image 2 link: https://i.imgur.com/yrQjfWk.png
 ---
 
 ## Parallel vs. Serial Processing
