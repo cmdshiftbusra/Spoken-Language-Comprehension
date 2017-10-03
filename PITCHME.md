@@ -22,16 +22,22 @@
 ---
 
 ## Experiment Results
-![Logo] (https://i.imgur.com/uEy0H1p.png)
+
+---
+
+![Logo](https://i.imgur.com/uEy0H1p.png)
 
 ---
 
 ## Reaction Times
-![Logo] (https://i.imgur.com/7i9DDHx.png)
 
 ---
 
-## What do sound cues this mean for interaction design?
+![Logo](https://i.imgur.com/7i9DDHx.png)
+
+---
+
+## What do sound cues mean for interaction design?
 "The door-opening sound indicates that a buddy has signed onto the instant messenger client." (Saffer, 146).
 
 ---
@@ -39,8 +45,10 @@
 ## One Last Test..
 
 ---
-![Logo] (https://i.imgur.com/TUnKXkY.png)
-___
+
+![Logo](https://i.imgur.com/TUnKXkY.png)
+
+---
 
 ## Seeing Causes Intentions
 
