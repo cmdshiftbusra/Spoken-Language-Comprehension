@@ -22,12 +22,12 @@
 ---
 
 ## Experiment Results
-Image
+![Logo] (https://i.imgur.com/uEy0H1p.png)
 
 ---
 
 ## Reaction Times
-Image
+![Logo] (https://i.imgur.com/7i9DDHx.png)
 
 ---
 
@@ -39,6 +39,8 @@ Image
 ## One Last Test..
 
 ---
+![Logo] (https://i.imgur.com/TUnKXkY.png)
+___
 
 ## Seeing Causes Intentions
 
